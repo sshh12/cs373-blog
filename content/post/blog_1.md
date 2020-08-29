@@ -48,4 +48,4 @@ I just built a new [gaming/research PC](https://pcpartpicker.com/list/NYkptp) to
 
 ### What's your pick-of-the-week or tip-of-the-week?
 
-StackExchange (parent of [StackOverflow](https://stackoverflow.com/)) recently [published some interesting stats](https://stackexchange.com/performance) about there infrastructure and performance. Interesting stats include `1.3B` views/month, `9 x 300` requests/s, `4 x 11000` queries/s.
+StackExchange (parent of [StackOverflow](https://stackoverflow.com/)) recently [published some interesting stats](https://stackexchange.com/performance) about their infrastructure and performance. Interesting stats include `1.3B` views/month, `9 x 300` requests/s, `4 x 11000` queries/s.

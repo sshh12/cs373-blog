@@ -2,19 +2,20 @@ baseurl = "/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
+googleAnalytics = "UA-64145097-4"
 
 [params]
   contentTypeName = "post"
   themeColor = "green"
   showMenuItems = 2
   fullWidthTheme = false
-  centerTheme = false
+  centerTheme = true
 
 [languages]
   [languages.en]
     title = "CS373 Fall 2020: Shrivu Shankar"
-    subtitle = "[b]A simple, retro theme for Hugo"
-    keywords = ""
+    subtitle = "A blog for CS373."
+    keywords = "cs373"
     copyright = ""
     menuMore = "Show more"
     readMore = "Read more"
